@@ -1,0 +1,6 @@
+{
+  "name": "Raynolf Acquah",
+  "description": "Interactive workspace instructions and a step-by-step guide on how to add this application to your desktop or run it locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
